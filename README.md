@@ -1,1 +1,1 @@
-# All discussions related to viettrace projects will reside here
+# Repo for discussion feature only
